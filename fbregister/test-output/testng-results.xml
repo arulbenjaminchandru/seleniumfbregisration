@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9566" started-at="2016-02-25T19:14:10Z" finished-at="2016-02-25T19:14:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9566" started-at="2016-02-25T19:14:10Z" finished-at="2016-02-25T19:14:20Z">
+      <class name="fbregistration.Register">
+        <test-method status="PASS" signature="OpenFacebook()[pri:0, instance:fbregistration.Register@239a307b]" name="OpenFacebook" is-config="true" duration-ms="5933" started-at="2016-02-26T00:44:10Z" finished-at="2016-02-26T00:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenFacebook -->
+        <test-method status="PASS" signature="ConfirmEmail()[pri:0, instance:fbregistration.Register@239a307b]" name="ConfirmEmail" duration-ms="1870" started-at="2016-02-26T00:44:16Z" finished-at="2016-02-26T00:44:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfirmEmail -->
+        <test-method status="PASS" signature="DateOfBirth()[pri:0, instance:fbregistration.Register@239a307b]" name="DateOfBirth" duration-ms="1148" started-at="2016-02-26T00:44:18Z" finished-at="2016-02-26T00:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DateOfBirth -->
+        <test-method status="PASS" signature="Email()[pri:0, instance:fbregistration.Register@239a307b]" name="Email" duration-ms="102" started-at="2016-02-26T00:44:19Z" finished-at="2016-02-26T00:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Email -->
+        <test-method status="PASS" signature="EnterFirstName()[pri:0, instance:fbregistration.Register@239a307b]" name="EnterFirstName" duration-ms="85" started-at="2016-02-26T00:44:20Z" finished-at="2016-02-26T00:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterFirstName -->
+        <test-method status="PASS" signature="EnterLastName()[pri:0, instance:fbregistration.Register@239a307b]" name="EnterLastName" duration-ms="68" started-at="2016-02-26T00:44:20Z" finished-at="2016-02-26T00:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterLastName -->
+        <test-method status="PASS" signature="Gender()[pri:0, instance:fbregistration.Register@239a307b]" name="Gender" duration-ms="118" started-at="2016-02-26T00:44:20Z" finished-at="2016-02-26T00:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gender -->
+        <test-method status="PASS" signature="Password()[pri:0, instance:fbregistration.Register@239a307b]" name="Password" duration-ms="88" started-at="2016-02-26T00:44:20Z" finished-at="2016-02-26T00:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Password -->
+        <test-method status="PASS" signature="Register()[pri:0, instance:fbregistration.Register@239a307b]" name="Register" duration-ms="127" started-at="2016-02-26T00:44:20Z" finished-at="2016-02-26T00:44:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+      </class> <!-- fbregistration.Register -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
